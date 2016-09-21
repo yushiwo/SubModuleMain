@@ -1,0 +1,3 @@
+[submodule "SubModuleLib_1"]
+	path = SubModuleLib_1
+	url = https://github.com/yushiwo/SubModuleLib_1
